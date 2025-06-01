@@ -33,8 +33,8 @@ By the end of this lab, you will:
 
 ### **Step 2: Create `pointers.c`**
 
-1. In the Explorer pane, click **New File** and name it: `pointers.c`
-2. Add the following code:
+1. In the Explorer pane, open: `pointers.c`
+2. Verify the following code:
 
 ```c
 #include <stdio.h>
